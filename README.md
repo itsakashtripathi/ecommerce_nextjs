@@ -1,3 +1,6 @@
+
+<img width="1280" alt="ecomm preview" src="https://github.com/itsakashtripathi/ecommerce_nextjs/assets/98697978/e41f35ba-3185-4354-b0be-b8c2fce6188a">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
